@@ -1,0 +1,266 @@
+
+.mainpage {
+    font-style:initial;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+}
+.span {
+    color:rgb(0, 110, 255);
+}
+.span1 {
+    
+    font-size:large;
+    margin-top:50px;
+    margin-right:200px; 
+    text-decoration: none;
+}
+.h1 {
+    background-color: white;
+    margin-left: 80px;
+    border: 1px solid white;
+}
+.border {
+    background-color: whitesmoke;
+    border:1px   whitesmoke;
+    cursor: pointer;
+    height:150vh;
+    
+}
+.button {
+    background-color: rgb(101, 155, 235);
+    border-radius: 50%;
+    width:40px;
+    height:40px;
+    color:white;
+    font-size:x-large;
+    border:0px;
+    margin-top:40px;
+    margin-left: 73%;
+    font-weight:bold;
+
+}
+.flex-container {
+    display: flex;
+    justify-content: right;
+}
+.box {
+    width:300px;
+    height:300px;
+    border:1px solid white;
+    margin-top: 30px;
+    margin-left:40px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px grey;
+}
+.box:hover {
+    box-shadow:0px 0px 20px grey;
+}
+
+.flex-box {
+    display: flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+    margin-left:200px;
+    border:2px solid whitesmoke;
+    width:70%;
+    justify-content: space-evenly;
+    cursor: pointer;
+    
+}
+.box4 {
+    position:relative;
+    right:115px;
+}
+.box5 {
+    position:relative;
+    right:230px;
+}
+.box1 {
+    line-height: 30px;
+}
+.head3 {
+    padding-left: 20px;
+    color:rgb(0, 110, 255);
+}
+.form {
+    padding-left: 20px;
+    text-decoration: line-through;
+    
+}
+#church {
+    width:20px;
+    height:20px;
+    
+}
+#super {
+    
+    width:20px;
+    height:20px; 
+    
+}
+.shop {
+    text-decoration:none;
+    padding-left:20px;
+    
+}
+#supermarket {
+    width: 20px;
+    height:20px;
+}
+#veg {
+    width: 20px;
+    height:20px;
+}
+#stranger {
+    width: 20px;
+    height:20px;
+}
+#avengers {
+    width: 20px;
+    height:20px;
+}
+#wakeup {
+    width:20px;
+    height:20px;
+}
+#sleep {
+    width:20px;
+    height:20px;
+}
+#design {
+    width:20px;
+    height:20px;
+}
+#alchemist {
+    width:20px;
+    height:20px;
+}
+
+.page2 {
+    opacity:0.2;
+    
+}
+.page2:hover {
+    opacity: 0.2;
+    cursor: pointer;
+    backdrop-filter: black;
+
+}
+.newtask {
+    border: 1px solid black;
+    border-radius: 5px;
+    width:400px;
+    height:200px;
+    background-color: whitesmoke;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    cursor: pointer;
+    position: absolute;
+    top:40%;
+    left:37%;
+    
+}
+.newhead {
+    font-weight: bold;
+    color:black;
+    font-size: large;
+    text-decoration:  none;
+    padding-left:10px;
+
+}
+.x {
+    float:right;
+    padding-right: 10px;
+    color:silver;
+    font-weight: 300;
+}
+.learn {
+    border: 2px solid white;
+    width:370px;
+    height:30px;
+    background-color: white;
+    text-decoration: none;
+    color: silver;
+    padding-left: 10px;
+    position:relative;
+    left:10px;
+    
+    
+}
+.hr2 {
+    position:relative;
+    top:-15px;
+}
+.addbutton {
+    border:0px;
+    background-color: rgb(0, 110, 255);
+    color:white;
+    font-size: small;
+    width: 120px;
+    height:35px;
+    border-radius: 5px;
+    float:right;
+    position:relative;
+    bottom: 5px;
+    right: 20px;
+    cursor: pointer;
+}
+.page3 {
+    font-style:initial;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+}
+.addbackspace {
+    border-radius: 50%;
+    width:35px;
+    height:35px;
+    color:white;
+    font-size:large;
+    border:0px;
+    margin-top:40px;
+    margin-left: 555px;
+    background-color: black;
+    cursor: pointer;
+}
+.addback {
+    font-size:large;
+    margin-top:50px;
+    margin-right:200px; 
+}
+.button2 {
+    background-color: rgb(101, 155, 235);
+    border-radius: 50%;
+    width:40px;
+    height:40px;
+    color:white;
+    font-size:x-large;
+    border:0px;
+    margin-top:40px;
+    margin-left: -25px;
+    font-weight:bold;
+    cursor: pointer;
+
+}
+.toptask3 {
+    font-size:large;
+    margin-top:50px;
+    margin-right:200px; 
+}
+.flex-container2 {
+    display:flex;
+    justify-content: center;
+}
+.flex-box2 {
+    width:400px;
+    height:200px;
+    border:2px solid white;
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 40px;
+    box-shadow:0px 0px 10px grey;
+    text-decoration: none;
+}
+.page4 {
+    opacity: 0.2;
+    position:relative;
+    top:80px;
+}
